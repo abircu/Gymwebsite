@@ -25,8 +25,10 @@
     }
     .header-menu{
         flex-direction: column;
+        justify-content: center;
         background-color: black;
         padding: 2rem;
+
     }
 
 }
